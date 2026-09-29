@@ -56,3 +56,9 @@ Through this practicum, I developed skills in:
 This repository is part of my undergraduate Statistics coursework at Universitas Islam Indonesia (UII).
 
 It serves as a documentation of my learning process, practical implementations, and progress in developing data analysis and statistical computing skills.
+
+## Reference
+
+The practical exercises and learning materials in this repository are based on the following course module:
+
+**Prof. Jaka Nugraha, M.Si. & Mujiati Dwi Kartikasari, M.Sc. (2023). _Analisis Data Eksploratif Menggunakan Excel, R, SPSS, Minitab, dan Tableau_.**
